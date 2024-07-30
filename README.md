@@ -1,19 +1,25 @@
-##PRODIGY_WD_03 - Tic-Tac-Toe Game
-This repository contains a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.<br>
-Below is an overview of the project structure and how to get started.
+# PRODIGY_WD_03 - Tic-Tac-Toe Game
 
-#Project Structure :-
+This repository contains a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Below is an overview of the project structure and how to get started.
 
--**index.html:** The main HTML file that structures the game layout.<br>
--**style.css:** The CSS file for styling the game interface.<br>
--**script.js:** The JavaScript file that contains the game logic.<br>
-#Features:-
+## Project Structure
 
-Interactive game board
-Real-time game status updates
-Game restart functionality
+- **index.html**: The main HTML file that structures the game layout.
+- **style.css**: The CSS file for styling the game interface.
+- **script.js**: The JavaScript file that contains the game logic.
 
+## Features
 
-**Clone the repository:**
+- Interactive game board
+- Real-time game status updates
+- Game restart functionality
 
-git clone https://github.com/vaidu25/PRODIGY_WD_03.git
+## How to Run
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/vaidu25/PRODIGY_WD_03.git
+   ```
+2. Open `index.html` in your web browser to play the game.
+
+Enjoy playing Tic-Tac-Toe!
