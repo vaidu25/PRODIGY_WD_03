@@ -1,4 +1,4 @@
-# PRODIGY_WD_03 - Tic-Tac-Toe Game
+##Tic-Tac-Toe Game
 
 This repository contains a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Below is an overview of the project structure and how to get started.
 
