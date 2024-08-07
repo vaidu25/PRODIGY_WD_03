@@ -18,7 +18,7 @@ This repository contains a simple Tic-Tac-Toe game built using HTML, CSS, and Ja
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vaidu25/PRODIGY_WD_03.git
+   git clone https://github.com/vaidu25/Tic_tac_toe-Game.git
    ```
 
 Enjoy playing Tic-Tac-Toe!
